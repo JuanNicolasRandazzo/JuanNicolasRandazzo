@@ -9,6 +9,11 @@ I am a Full-Stack Developer with a passion for technology and a strong belief in
 You can find me on 🌎:
 - [NicoDev](https://nicrandazzo.dev/)
 - [LinkedIn](https://www.linkedin.com/in/juan-nicolas-randazzo-473917210/)
+
+
+## 🤖Languages and tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,react,flutter,net,go,swift,js,ts,mongo,firebase,django,html,css)](https://skillicons.dev)
   
 
 
