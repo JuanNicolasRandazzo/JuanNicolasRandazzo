@@ -1,4 +1,8 @@
-## Hi there 👋 I am Juan Nicolas Randazzo
+## 👋 Juan Nicolas Randazzo
+
+**`Software Developer`**
+
+
 <!--
 **JuanNicolasRandazzo/JuanNicolasRandazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
