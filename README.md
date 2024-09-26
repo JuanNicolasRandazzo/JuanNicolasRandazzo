@@ -1,7 +1,12 @@
 ## Hi, I'm Juan Nicolas Randazzo👋 
-**`Software Developer`**
+**`Full Stack Developer`**
+
+
+I am a Full-Stack Developer with a passion for technology and a strong belief in our ability to create powerful tools that can benefit humanity. Every project showcased here has been built from scratch, and each one comes with a brief preview to give you a glimpse of the app in action.
+
+
 	
-You can find me 🌎:
+You can find me on 🌎:
 - [NicoDev](https://nicrandazzo.dev/)
 - [LinkedIn](https://www.linkedin.com/in/juan-nicolas-randazzo-473917210/)
   
