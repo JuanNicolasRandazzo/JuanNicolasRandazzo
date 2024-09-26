@@ -1,5 +1,4 @@
-## Hi there 👋
-<H1> Juan Nicolas Randazzo <H1>
+## Hi there 👋 I am Juan Nicolas Randazzo
 <!--
 **JuanNicolasRandazzo/JuanNicolasRandazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
