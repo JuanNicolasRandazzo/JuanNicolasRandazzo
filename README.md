@@ -13,7 +13,7 @@ You can find me on 🌎:
 
 ## 🤖Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,react,flutter,net,go,swift,js,ts,mongo,firebase,django,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,react,flutter,net,go,swift,js,ts,mongo,firebase,django,html,css,linux,androidstudio,apple)](https://skillicons.dev)
   
 
 
