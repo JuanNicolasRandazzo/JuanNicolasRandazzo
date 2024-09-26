@@ -1,4 +1,4 @@
-## 👋 <span style="blue"> Juan Nicolas Randazzo </span>
+## 👋 <span style="color: blue"> Juan Nicolas Randazzo </span>
 
 
 
