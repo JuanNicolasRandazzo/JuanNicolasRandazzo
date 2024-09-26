@@ -16,8 +16,9 @@ You can find me on 🌎:
 [![My Skills](https://skillicons.dev/icons?i=python,cs,java,react,flutter,net,go,swift,js,ts,mongo,firebase,django,html,css,linux,androidstudio,apple)](https://skillicons.dev)
   
 
+## 📊Stats:
 
-
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanNicolasRandazzo&theme=dark&show_icons=true)
 
 <!--
 **JuanNicolasRandazzo/JuanNicolasRandazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
