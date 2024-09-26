@@ -1,6 +1,6 @@
-## 👋 Juan Nicolas 
+## 👋 <span style="blue"> Juan Nicolas Randazzo </span>
 
-![Software Developer](https://img.shields.io/badge/Software-Developer-blue)
+
 
 **`Software Developer`**
 
