@@ -20,6 +20,13 @@ You can find me on 🌎:
 
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanNicolasRandazzo&theme=dark&show_icons=true)
 
+
+## 👨‍💻 Nico's coding journey
+
+My journey began in 2018 when I took my first Python course while pursuing my Bachelor’s degree in Astronomy. There, I learned the basic concepts of programming and Python. I spent three years developing my skills in this language before deciding to study programming professionally. I enrolled at LaSalle College in Montreal to study Information Technology Programmer-Analyst. My studies included C#, Java, Python, SQL, .NET, .NET Core, GoLang, Android, and iOS. We created numerous projects through which I learned a lot, some of which you can find in this portfolio.
+
+Currently, I am fully immersed in the world of development and programming, creating my own applications while seeking job opportunities to further develop my professional career.
+
 <!--
 **JuanNicolasRandazzo/JuanNicolasRandazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
