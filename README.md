@@ -1,9 +1,12 @@
-## 👋 <span style="color:blue"> Juan Nicolas Randazzo </span>
-
-	$${\color{red}Red}$$
-
-
+## Hi, I'm Juan Nicolas Randazzo👋 
 **`Software Developer`**
+	
+You can find me 🌎:
+- [NicoDev](https://nicrandazzo.dev/)
+- [LinkedIn](https://www.linkedin.com/in/juan-nicolas-randazzo-473917210/)
+  
+
+
 
 
 <!--
