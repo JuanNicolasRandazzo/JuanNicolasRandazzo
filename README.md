@@ -1,5 +1,5 @@
 ## Hi, I'm Juan Nicolas Randazzo👋 
-**`Full Stack Developer`**
+**`Full Stack Developer`** **`Programer Analyst`**
 
 
 I am a Full-Stack Developer with a passion for technology and a strong belief in our ability to create powerful tools that can benefit humanity. Every project showcased here has been built from scratch, and each one comes with a brief preview to give you a glimpse of the app in action.
