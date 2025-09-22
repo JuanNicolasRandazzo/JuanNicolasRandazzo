@@ -6,7 +6,7 @@ I am a Full-Stack Developer with a passion for technology and a strong belief in
 
 
 	
-You can find me on 🌎:
+🌎 You can find me on :
 - [NicoDev](https://nicrandazzo.dev/)
 - [LinkedIn](https://www.linkedin.com/in/juan-nicolas-randazzo-473917210/)
 
