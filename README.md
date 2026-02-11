@@ -13,7 +13,7 @@ I am a Full-Stack Developer with a passion for technology and a strong belief in
 
 ## 🤖Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,react,angular,js,ts,nodejs,flutter,net,go,swift,mongo,firebase,django,html,css,linux,androidstudio,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,spring,react,angular,js,ts,nodejs,flutter,net,go,swift,mongo,firebase,django,html,css,linux,androidstudio,apple)](https://skillicons.dev)
   
 
 ## 📊Stats:
